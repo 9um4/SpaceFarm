@@ -1,0 +1,5155 @@
+fileFormatVersion: 2
+guid: 7cc1ee5c6a78b5b4bb421e7fc4f330f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7325168583549422198
+    second: sprCropsWinterWet_0
+  - first:
+      213: 8291117971557155999
+    second: sprCropsWinterWet_1
+  - first:
+      213: -3257953646675530385
+    second: sprCropsWinterWet_2
+  - first:
+      213: 2241527113410599362
+    second: sprCropsWinterWet_3
+  - first:
+      213: 7498807715610608082
+    second: sprCropsWinterWet_4
+  - first:
+      213: 4285427690811653531
+    second: sprCropsWinterWet_5
+  - first:
+      213: 4656445083683376334
+    second: sprCropsWinterWet_6
+  - first:
+      213: -8957097553998233568
+    second: sprCropsWinterWet_7
+  - first:
+      213: -1996765906773432997
+    second: sprCropsWinterWet_8
+  - first:
+      213: 2660548443943502215
+    second: sprCropsWinterWet_9
+  - first:
+      213: -1878374493322381497
+    second: sprCropsWinterWet_10
+  - first:
+      213: 5261637368582619888
+    second: sprCropsWinterWet_11
+  - first:
+      213: -6463500147894077689
+    second: sprCropsWinterWet_12
+  - first:
+      213: -5597347282231282079
+    second: sprCropsWinterWet_13
+  - first:
+      213: 1277218469305982553
+    second: sprCropsWinterWet_14
+  - first:
+      213: -6369718458279756339
+    second: sprCropsWinterWet_15
+  - first:
+      213: -8004467740709227571
+    second: sprCropsWinterWet_16
+  - first:
+      213: 6261712842881390135
+    second: sprCropsWinterWet_17
+  - first:
+      213: -4734009340686970259
+    second: sprCropsWinterWet_18
+  - first:
+      213: 7523774119212904928
+    second: sprCropsWinterWet_19
+  - first:
+      213: -8498241674238169897
+    second: sprCropsWinterWet_20
+  - first:
+      213: -7633456345246103170
+    second: sprCropsWinterWet_21
+  - first:
+      213: 1398455572408557790
+    second: sprCropsWinterWet_22
+  - first:
+      213: -893637158182853221
+    second: sprCropsWinterWet_23
+  - first:
+      213: 8006752135591884167
+    second: sprCropsWinterWet_24
+  - first:
+      213: -6273357358950222433
+    second: sprCropsWinterWet_25
+  - first:
+      213: -5306403968472414729
+    second: sprCropsWinterWet_26
+  - first:
+      213: -6014128804157756710
+    second: sprCropsWinterWet_27
+  - first:
+      213: -2585993281366542192
+    second: sprCropsWinterWet_28
+  - first:
+      213: 8333608159738188261
+    second: sprCropsWinterWet_29
+  - first:
+      213: 2273396321860101056
+    second: sprCropsWinterWet_30
+  - first:
+      213: 4694258680514842780
+    second: sprCropsWinterWet_31
+  - first:
+      213: -5848679692217654087
+    second: sprCropsWinterWet_32
+  - first:
+      213: -5977076458508359671
+    second: sprCropsWinterWet_33
+  - first:
+      213: -3741663983912253402
+    second: sprCropsWinterWet_34
+  - first:
+      213: 8154637089959582224
+    second: sprCropsWinterWet_35
+  - first:
+      213: -3337176116529904179
+    second: sprCropsWinterWet_36
+  - first:
+      213: 52426476358770660
+    second: sprCropsWinterWet_37
+  - first:
+      213: 5049769627123969646
+    second: sprCropsWinterWet_38
+  - first:
+      213: -8607032722286748601
+    second: sprCropsWinterWet_39
+  - first:
+      213: -1947733362638648373
+    second: sprCropsWinterWet_40
+  - first:
+      213: 1267896027432847817
+    second: sprCropsWinterWet_41
+  - first:
+      213: -3825596878048921351
+    second: sprCropsWinterWet_42
+  - first:
+      213: -857834237197990435
+    second: sprCropsWinterWet_43
+  - first:
+      213: -3134049839410739584
+    second: sprCropsWinterWet_44
+  - first:
+      213: -1314328100062213355
+    second: sprCropsWinterWet_45
+  - first:
+      213: 1945865541640251543
+    second: sprCropsWinterWet_46
+  - first:
+      213: -6303891932928893617
+    second: sprCropsWinterWet_47
+  - first:
+      213: 5374330208670934069
+    second: sprCropsWinterWet_48
+  - first:
+      213: 2078802269389344565
+    second: sprCropsWinterWet_49
+  - first:
+      213: 20111515680166755
+    second: sprCropsWinterWet_50
+  - first:
+      213: 7133555451626498298
+    second: sprCropsWinterWet_51
+  - first:
+      213: 8207654478691543196
+    second: sprCropsWinterWet_52
+  - first:
+      213: 8549901212780614958
+    second: sprCropsWinterWet_53
+  - first:
+      213: -3335132069235884258
+    second: sprCropsWinterWet_54
+  - first:
+      213: 920687788662496157
+    second: sprCropsWinterWet_55
+  - first:
+      213: -3479556628173791902
+    second: sprCropsWinterWet_56
+  - first:
+      213: -3330155124345856594
+    second: sprCropsWinterWet_57
+  - first:
+      213: 1222347274274993175
+    second: sprCropsWinterWet_58
+  - first:
+      213: 5070029474346854724
+    second: sprCropsWinterWet_59
+  - first:
+      213: -1635017660868061119
+    second: sprCropsWinterWet_60
+  - first:
+      213: -7751112473436171126
+    second: sprCropsWinterWet_61
+  - first:
+      213: 2848876083780004114
+    second: sprCropsWinterWet_62
+  - first:
+      213: -3663596796565560642
+    second: sprCropsWinterWet_63
+  - first:
+      213: -3920953160259368422
+    second: sprCropsWinterWet_64
+  - first:
+      213: 2660203221780960812
+    second: sprCropsWinterWet_65
+  - first:
+      213: 8778693657668110337
+    second: sprCropsWinterWet_66
+  - first:
+      213: 8861780258158047936
+    second: sprCropsWinterWet_67
+  - first:
+      213: 6017021956846239551
+    second: sprCropsWinterWet_68
+  - first:
+      213: 8143310799568702368
+    second: sprCropsWinterWet_69
+  - first:
+      213: -3766672896176749999
+    second: sprCropsWinterWet_70
+  - first:
+      213: 4855066003308548442
+    second: sprCropsWinterWet_71
+  - first:
+      213: 4640007713025701968
+    second: sprCropsWinterWet_72
+  - first:
+      213: -1147529674136045094
+    second: sprCropsWinterWet_73
+  - first:
+      213: -8290746877868303293
+    second: sprCropsWinterWet_74
+  - first:
+      213: 4782264359296245053
+    second: sprCropsWinterWet_75
+  - first:
+      213: 5356166306112451466
+    second: sprCropsWinterWet_76
+  - first:
+      213: -3601047928876092708
+    second: sprCropsWinterWet_77
+  - first:
+      213: -8087387419701341567
+    second: sprCropsWinterWet_78
+  - first:
+      213: 1187979184975417990
+    second: sprCropsWinterWet_79
+  - first:
+      213: -6550980685243515622
+    second: sprCropsWinterWet_80
+  - first:
+      213: -4106767219244582212
+    second: sprCropsWinterWet_81
+  - first:
+      213: 4903030975329544928
+    second: sprCropsWinterWet_82
+  - first:
+      213: 147804796354851427
+    second: sprCropsWinterWet_83
+  - first:
+      213: -1195994435690670728
+    second: sprCropsWinterWet_84
+  - first:
+      213: -1888825992460389207
+    second: sprCropsWinterWet_85
+  - first:
+      213: 745263244305517467
+    second: sprCropsWinterWet_86
+  - first:
+      213: -1948668101477895977
+    second: sprCropsWinterWet_87
+  - first:
+      213: -2429757844662522670
+    second: sprCropsWinterWet_88
+  - first:
+      213: 1367955376034170895
+    second: sprCropsWinterWet_89
+  - first:
+      213: 8904005235366358926
+    second: sprCropsWinterWet_90
+  - first:
+      213: 5661936718402193527
+    second: sprCropsWinterWet_91
+  - first:
+      213: -7217506093128406161
+    second: sprCropsWinterWet_92
+  - first:
+      213: -7066917339733898502
+    second: sprCropsWinterWet_93
+  - first:
+      213: 582504199583605687
+    second: sprCropsWinterWet_94
+  - first:
+      213: 3792759385014767021
+    second: sprCropsWinterWet_95
+  - first:
+      213: -1579460568123183122
+    second: sprCropsWinterWet_96
+  - first:
+      213: 1227453129915826721
+    second: sprCropsWinterWet_97
+  - first:
+      213: -7028746743026461059
+    second: sprCropsWinterWet_98
+  - first:
+      213: 9183938744401110596
+    second: sprCropsWinterWet_99
+  - first:
+      213: -3695767923707601029
+    second: sprCropsWinterWet_100
+  - first:
+      213: -4739988137948281232
+    second: sprCropsWinterWet_101
+  - first:
+      213: -5513546006981827615
+    second: sprCropsWinterWet_102
+  - first:
+      213: 5111445881406360223
+    second: sprCropsWinterWet_103
+  - first:
+      213: -1393054966261340610
+    second: sprCropsWinterWet_104
+  - first:
+      213: 1505013644067752007
+    second: sprCropsWinterWet_105
+  - first:
+      213: -3084779486049154821
+    second: sprCropsWinterWet_106
+  - first:
+      213: 5354080503516671281
+    second: sprCropsWinterWet_107
+  - first:
+      213: -3993853214697480236
+    second: sprCropsWinterWet_108
+  - first:
+      213: 8950493384326977008
+    second: sprCropsWinterWet_109
+  - first:
+      213: 2539922087613139575
+    second: sprCropsWinterWet_110
+  - first:
+      213: -3992214374978222014
+    second: sprCropsWinterWet_111
+  - first:
+      213: 8657571424771020724
+    second: sprCropsWinterWet_112
+  - first:
+      213: -6545010089110786737
+    second: sprCropsWinterWet_113
+  - first:
+      213: 552703035582968939
+    second: sprCropsWinterWet_114
+  - first:
+      213: -6067311700683580552
+    second: sprCropsWinterWet_115
+  - first:
+      213: 2671634517305537071
+    second: sprCropsWinterWet_116
+  - first:
+      213: 7063071418606301927
+    second: sprCropsWinterWet_117
+  - first:
+      213: -1525730406471570086
+    second: sprCropsWinterWet_118
+  - first:
+      213: -4589178143916548531
+    second: sprCropsWinterWet_119
+  - first:
+      213: 6971482702912481973
+    second: sprCropsWinterWet_120
+  - first:
+      213: 7622170646007909207
+    second: sprCropsWinterWet_121
+  - first:
+      213: 7909090652939511463
+    second: sprCropsWinterWet_122
+  - first:
+      213: -7479535820263117888
+    second: sprCropsWinterWet_123
+  - first:
+      213: -1518683086034001818
+    second: sprCropsWinterWet_124
+  - first:
+      213: -1340171502543352125
+    second: sprCropsWinterWet_125
+  - first:
+      213: 566948202070579691
+    second: sprCropsWinterWet_126
+  - first:
+      213: 3129324595106658769
+    second: sprCropsWinterWet_127
+  - first:
+      213: -5365766924050792984
+    second: sprCropsWinterWet_128
+  - first:
+      213: 2339956799349254816
+    second: sprCropsWinterWet_129
+  - first:
+      213: 1352735306388327220
+    second: sprCropsWinterWet_130
+  - first:
+      213: -6392281696593290932
+    second: sprCropsWinterWet_131
+  - first:
+      213: 5748180288839791474
+    second: sprCropsWinterWet_132
+  - first:
+      213: 3237500980578638583
+    second: sprCropsWinterWet_133
+  - first:
+      213: -5638184854115652673
+    second: sprCropsWinterWet_134
+  - first:
+      213: 400746588776676828
+    second: sprCropsWinterWet_135
+  - first:
+      213: -6593671906277128591
+    second: sprCropsWinterWet_136
+  - first:
+      213: 6209535460906769401
+    second: sprCropsWinterWet_137
+  - first:
+      213: 8944264523436365181
+    second: sprCropsWinterWet_138
+  - first:
+      213: 7136220751391000688
+    second: sprCropsWinterWet_139
+  - first:
+      213: -5686153697015845421
+    second: sprCropsWinterWet_140
+  - first:
+      213: 7860303182245119116
+    second: sprCropsWinterWet_141
+  - first:
+      213: 4831424012270513848
+    second: sprCropsWinterWet_142
+  - first:
+      213: -7746758415502587484
+    second: sprCropsWinterWet_143
+  - first:
+      213: 8824644763314113459
+    second: sprCropsWinterWet_144
+  - first:
+      213: -3544480125872118942
+    second: sprCropsWinterWet_145
+  - first:
+      213: -2667577197593173239
+    second: sprCropsWinterWet_146
+  - first:
+      213: 3891307567011630422
+    second: sprCropsWinterWet_147
+  - first:
+      213: -4972596758199632516
+    second: sprCropsWinterWet_148
+  - first:
+      213: 7017600082212718762
+    second: sprCropsWinterWet_149
+  - first:
+      213: 3126432268581640333
+    second: sprCropsWinterWet_150
+  - first:
+      213: 6920783726679772228
+    second: sprCropsWinterWet_151
+  - first:
+      213: -9016239620038098066
+    second: sprCropsWinterWet_152
+  - first:
+      213: -6336981819657145290
+    second: sprCropsWinterWet_153
+  - first:
+      213: 2618627243139826003
+    second: sprCropsWinterWet_154
+  - first:
+      213: -4185419113693777565
+    second: sprCropsWinterWet_155
+  - first:
+      213: -7758412414231319950
+    second: sprCropsWinterWet_156
+  - first:
+      213: -8663802143631987164
+    second: sprCropsWinterWet_157
+  - first:
+      213: 5164369678521128688
+    second: sprCropsWinterWet_158
+  - first:
+      213: 8757135483939704801
+    second: sprCropsWinterWet_159
+  - first:
+      213: 4127548208341547195
+    second: sprCropsWinterWet_160
+  - first:
+      213: 1232274227940910019
+    second: sprCropsWinterWet_161
+  - first:
+      213: 7300737146695601443
+    second: sprCropsWinterWet_162
+  - first:
+      213: -5265743184793131836
+    second: sprCropsWinterWet_163
+  - first:
+      213: 4297673836245794864
+    second: sprCropsWinterWet_164
+  - first:
+      213: -6897459771556328703
+    second: sprCropsWinterWet_165
+  - first:
+      213: 5095526073205077317
+    second: sprCropsWinterWet_166
+  - first:
+      213: -2885085603663279814
+    second: sprCropsWinterWet_167
+  - first:
+      213: -8221176365513210976
+    second: sprCropsWinterWet_168
+  - first:
+      213: -2428807178639124622
+    second: sprCropsWinterWet_169
+  - first:
+      213: -2612170282837309936
+    second: sprCropsWinterWet_170
+  - first:
+      213: 8861172577025209403
+    second: sprCropsWinterWet_171
+  - first:
+      213: 1123152082054048262
+    second: sprCropsWinterWet_172
+  - first:
+      213: 7737897896956543329
+    second: sprCropsWinterWet_173
+  - first:
+      213: 8501737389884936736
+    second: sprCropsWinterWet_174
+  - first:
+      213: 7142200743124612600
+    second: sprCropsWinterWet_175
+  - first:
+      213: -795406506264607106
+    second: sprCropsWinterWet_176
+  - first:
+      213: -1384367118774890771
+    second: sprCropsWinterWet_177
+  - first:
+      213: -4789716961833970482
+    second: sprCropsWinterWet_178
+  - first:
+      213: -6875938690617555136
+    second: sprCropsWinterWet_179
+  - first:
+      213: -6773326875735771570
+    second: sprCropsWinterWet_180
+  - first:
+      213: -6778363852786737123
+    second: sprCropsWinterWet_181
+  - first:
+      213: -2968381882440690687
+    second: sprCropsWinterWet_182
+  - first:
+      213: -1040347833170403316
+    second: sprCropsWinterWet_183
+  - first:
+      213: -8834717379388349483
+    second: sprCropsWinterWet_184
+  - first:
+      213: 5902895322838648864
+    second: sprCropsWinterWet_185
+  - first:
+      213: 4111860268390845271
+    second: sprCropsWinterWet_186
+  - first:
+      213: -6274275708803513883
+    second: sprCropsWinterWet_187
+  - first:
+      213: -8649146406829930486
+    second: sprCropsWinterWet_188
+  - first:
+      213: -4491010405517408409
+    second: sprCropsWinterWet_189
+  - first:
+      213: 1871075110478725726
+    second: sprCropsWinterWet_190
+  - first:
+      213: -7443944421298169492
+    second: sprCropsWinterWet_191
+  - first:
+      213: 1204110615138974966
+    second: sprCropsWinterWet_192
+  - first:
+      213: -1989972883575521969
+    second: sprCropsWinterWet_193
+  - first:
+      213: 3584679927538483905
+    second: sprCropsWinterWet_194
+  - first:
+      213: 4791239887988664922
+    second: sprCropsWinterWet_195
+  - first:
+      213: 8978274062658035353
+    second: sprCropsWinterWet_196
+  - first:
+      213: -129439498118931475
+    second: sprCropsWinterWet_197
+  - first:
+      213: 6836481290730145469
+    second: sprCropsWinterWet_198
+  - first:
+      213: 1631106346607059906
+    second: sprCropsWinterWet_199
+  - first:
+      213: -2012495217462762526
+    second: sprCropsWinterWet_200
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprCropsWinterWet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 583
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a857fa1dbf5c75a90800000000000000
+      internalID: -7325168583549422198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 578
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94858dedd7ff0370800000000000000
+      internalID: 8291117971557155999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 576
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d67337b6c69c2d0800000000000000
+      internalID: -3257953646675530385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 576
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9de3598018b1f10800000000000000
+      internalID: 2241527113410599362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 576
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1cdef03ed111860800000000000000
+      internalID: 7498807715610608082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 560
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d737597c5e87b30800000000000000
+      internalID: 4285427690811653531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 560
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecccf09f1240f9040800000000000000
+      internalID: 4656445083683376334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 568
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0204a6b3b3ff1b380800000000000000
+      internalID: -8957097553998233568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55a823bcff0a44e0800000000000000
+      internalID: -1996765906773432997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 559
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78188fca6ba2ce420800000000000000
+      internalID: 2660548443943502215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 559
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7477d52b95caee5e0800000000000000
+      internalID: -1878374493322381497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 559
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2c9433f47150940800000000000000
+      internalID: 5261637368582619888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 547
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707b61f4cd80d46a0800000000000000
+      internalID: -6463500147894077689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 543
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1663b168d4a3252b0800000000000000
+      internalID: -5597347282231282079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 543
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e1d8b4e6799b110800000000000000
+      internalID: 1277218469305982553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 543
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd7cf67fc63a97a0800000000000000
+      internalID: -6369718458279756339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 543
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3f3f2dffa6ae090800000000000000
+      internalID: -8004467740709227571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 543
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736527597a216e650800000000000000
+      internalID: 6261712842881390135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d8f4269b6d4eb0800000000000000
+      internalID: -4734009340686970259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 529
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e176f1e2b0d96860800000000000000
+      internalID: 7523774119212904928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 527
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcec9f093e201a80800000000000000
+      internalID: -8498241674238169897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 527
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e798725d5e3801690800000000000000
+      internalID: -7633456345246103170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 527
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0e39b0fef486310800000000000000
+      internalID: 1398455572408557790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 527
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95eb644db92993f0800000000000000
+      internalID: -893637158182853221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 517
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785fd8e45a2bd1f60800000000000000
+      internalID: 8006752135591884167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9570be38be80f8a0800000000000000
+      internalID: -6273357358950222433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 511
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f58a7884bddb56b0800000000000000
+      internalID: -5306403968472414729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 511
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada6bb287b5898ca0800000000000000
+      internalID: -6014128804157756710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 511
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098b990dfc4bc1cd0800000000000000
+      internalID: -2585993281366542192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1dd7ac77ce6a370800000000000000
+      internalID: 8333608159738188261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 511
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3a626e8e9bc8f10800000000000000
+      internalID: 2273396321860101056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 505
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9091ef066b552140800000000000000
+      internalID: 4694258680514842780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 503
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4635cbec055dea0800000000000000
+      internalID: -5848679692217654087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 495
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908624ff0a82d0da0800000000000000
+      internalID: -5977076458508359671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 495
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628890a4e60f21cc0800000000000000
+      internalID: -3741663983912253402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 495
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a144b6a371b2170800000000000000
+      internalID: 8154637089959582224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_36
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 495
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5415dc008ffa1d0800000000000000
+      internalID: -3337176116529904179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 498
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef903c3a914ab000800000000000000
+      internalID: 52426476358770660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 495
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ee74698b2641640800000000000000
+      internalID: 5049769627123969646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 482
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c5fe1575dad8880800000000000000
+      internalID: -8607032722286748601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 480
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb0fb283d248f4e0800000000000000
+      internalID: -1947733362638648373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 480
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9834728b8789110800000000000000
+      internalID: 1267896027432847817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_42
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 480
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8fc0688efb8eac0800000000000000
+      internalID: -3825596878048921351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 479
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd545a76e4c5814f0800000000000000
+      internalID: -857834237197990435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 479
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0868d85a64e9184d0800000000000000
+      internalID: -3134049839410739584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 473
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b4a7d7e8192cde0800000000000000
+      internalID: -1314328100062213355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 468
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798e326866a110b10800000000000000
+      internalID: 1945865541640251543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 463
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d925bbfa31488a0800000000000000
+      internalID: -6303891932928893617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 463
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5346b71b9d4759a40800000000000000
+      internalID: 5374330208670934069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 448
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f4a3966a369dc10800000000000000
+      internalID: 2078802269389344565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 441
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363d2042153774000800000000000000
+      internalID: 20111515680166755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 447
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8afb753ea7ff260800000000000000
+      internalID: 7133555451626498298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 463
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98ad89234277e170800000000000000
+      internalID: 8207654478691543196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 447
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25587c8ad957a670800000000000000
+      internalID: 8549901212780614958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_54
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 463
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f7e26ad0b37b1d0800000000000000
+      internalID: -3335132069235884258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 447
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b94407aa0f6cc00800000000000000
+      internalID: 920687788662496157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 463
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d58d1aea126bfc0800000000000000
+      internalID: -3479556628173791902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 18
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead1b6eee89e8c1d0800000000000000
+      internalID: -3330155124345856594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 415
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714f353ae56a6f010800000000000000
+      internalID: 1222347274274993175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449643bd1fc5c5640800000000000000
+      internalID: 5070029474346854724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 434
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1481872a9104f49e0800000000000000
+      internalID: -1635017660868061119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 415
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84dcb6c5448e6490800000000000000
+      internalID: -7751112473436171126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21920d644bd398720800000000000000
+      internalID: 2848876083780004114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_63
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 432
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb26374cf1a482dc0800000000000000
+      internalID: -3663596796565560642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_64
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 431
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a8bc5ffd9f599c0800000000000000
+      internalID: -3920953160259368422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 431
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269a906cb0fae420800000000000000
+      internalID: 2660203221780960812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1084841ce5f24d970800000000000000
+      internalID: 8778693657668110337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 419
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2741d613e5bfa70800000000000000
+      internalID: 8861780258158047936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_68
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 415
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fbb871791c08350800000000000000
+      internalID: 6017021956846239551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_69
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 415
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab05efe60ad20170800000000000000
+      internalID: 8143310799568702368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 403
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1520b4625f61abbc0800000000000000
+      internalID: -3766672896176749999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_71
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 399
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5118488ec8a06340800000000000000
+      internalID: 4855066003308548442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_72
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 399
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05838f16e6e946040800000000000000
+      internalID: 4640007713025701968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 399
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9b6eb57d72310f0800000000000000
+      internalID: -1147529674136045094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 387
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c1bfd04a951fc80800000000000000
+      internalID: -8290746877868303293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_75
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 383
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d1dd5e8140e5240800000000000000
+      internalID: 4782264359296245053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 383
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83bfb190ece45a40800000000000000
+      internalID: 5356166306112451466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 383
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd23f24ecf1860ec0800000000000000
+      internalID: -3601047928876092708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 371
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1821db79df3d3cf80800000000000000
+      internalID: -8087387419701341567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_79
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 367
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682940946cc8c7010800000000000000
+      internalID: 1187979184975417990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_80
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 367
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d7d9d76cd3615a0800000000000000
+      internalID: -6550980685243515622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_81
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 367
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba35b109f4d107c0800000000000000
+      internalID: -4106767219244582212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 355
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea2147d1b01b0440800000000000000
+      internalID: 4903030975329544928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_83
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 351
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36274deddab1d0200800000000000000
+      internalID: 147804796354851427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 351
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875505bb569f66fe0800000000000000
+      internalID: -1195994435690670728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_85
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 351
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4bfdc64ca89c5e0800000000000000
+      internalID: -1888825992460389207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 339
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b4cfcd8f4b75a00800000000000000
+      internalID: 745263244305517467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 335
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0764aafa0f4f4e0800000000000000
+      internalID: -1948668101477895977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_88
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 335
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcebaa1d14c74ed0800000000000000
+      internalID: -2429757844662522670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_89
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f084a11ba24fbf210800000000000000
+      internalID: 1367955376034170895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fea3c0691619b70800000000000000
+      internalID: 8904005235366358926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 319
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7788a19727d339e40800000000000000
+      internalID: 5661936718402193527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 319
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b2dd2c27446db90800000000000000
+      internalID: -7217506093128406161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_93
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 319
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afacc142f144ded90800000000000000
+      internalID: -7066917339733898502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 307
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3aa58bb78751800800000000000000
+      internalID: 582504199583605687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_95
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 303
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad8556d09692a430800000000000000
+      internalID: 3792759385014767021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_96
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 303
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefe74c4bf0a41ae0800000000000000
+      internalID: -1579460568123183122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_97
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 303
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122031b4e1ac80110800000000000000
+      internalID: 1227453129915826721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7659bdb310e47e90800000000000000
+      internalID: -7028746743026461059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_99
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 290
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446a9f221a7e37f70800000000000000
+      internalID: 9183938744401110596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_100
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f102787aef5bcc0800000000000000
+      internalID: -3695767923707601029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 287
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076070ee6ed283eb0800000000000000
+      internalID: -4739988137948281232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_102
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 287
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e323116e13fb73b0800000000000000
+      internalID: -5513546006981827615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_103
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a0cd192f08fe640800000000000000
+      internalID: 5111445881406360223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 280
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36266f83efdaace0800000000000000
+      internalID: -1393054966261340610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_105
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74846c47fe1e2e410800000000000000
+      internalID: 1505013644067752007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_106
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 279
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8c0abb669a035d0800000000000000
+      internalID: -3084779486049154821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_107
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 271
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13da4fec9d38d4a40800000000000000
+      internalID: 5354080503516671281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_108
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df97ec59abf298c0800000000000000
+      internalID: -3993853214697480236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_109
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 271
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f51b41bf4a863c70800000000000000
+      internalID: 8950493384326977008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a895d7ead9f3320800000000000000
+      internalID: 2539922087613139575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_111
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24807387d2ec898c0800000000000000
+      internalID: -3992214374978222014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_112
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b79c0f475fd52870800000000000000
+      internalID: 8657571424771020724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_113
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d243b30047b25a0800000000000000
+      internalID: -6545010089110786737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_114
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64f3368b789ba700800000000000000
+      internalID: 552703035582968939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_115
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 255
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b1f2b77249ccba0800000000000000
+      internalID: -6067311700683580552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_116
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f223ba5407d831520800000000000000
+      internalID: 2671634517305537071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_117
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 242
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e23e319802150260800000000000000
+      internalID: 7063071418606301927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_118
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 247
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5def3b674483dae0800000000000000
+      internalID: -1525730406471570086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_119
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 239
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e1ed8eac6ff40c0800000000000000
+      internalID: -4589178143916548531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_120
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 239
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bae0e0f49eafb060800000000000000
+      internalID: 6971482702912481973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_121
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b06bc81d367c960800000000000000
+      internalID: 7622170646007909207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a662d07b0cb2cd60800000000000000
+      internalID: 7909090652939511463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_123
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 226
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb286cbcc9533890800000000000000
+      internalID: -7479535820263117888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_124
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660ac8297cd8ceae0800000000000000
+      internalID: -1518683086034001818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 223
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce4dc47e11c66de0800000000000000
+      internalID: -1340171502543352125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_126
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 223
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9967ec2643ed700800000000000000
+      internalID: 566948202070579691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_127
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 223
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9b93ea3289d6b20800000000000000
+      internalID: 3129324595106658769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_128
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed79606967f885b0800000000000000
+      internalID: -5365766924050792984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_129
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 210
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aae8f6bf42397020800000000000000
+      internalID: 2339956799349254816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_130
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bc7641891e5c210800000000000000
+      internalID: 1352735306388327220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_131
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49535a2aad0a47a0800000000000000
+      internalID: -6392281696593290932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_132
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 207
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273b23d7483a5cf40800000000000000
+      internalID: 5748180288839791474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_133
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 207
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa5e532df9edec20800000000000000
+      internalID: 3237500980578638583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_134
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbe2706fb421c1b0800000000000000
+      internalID: -5638184854115652673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_135
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddbbf436ecbf8500800000000000000
+      internalID: 400746588776676828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_136
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17601e406529e74a0800000000000000
+      internalID: -6593671906277128591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_137
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 191
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb1a872a93bc2650800000000000000
+      internalID: 6209535460906769401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_138
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d759d800239602c70800000000000000
+      internalID: 8944264523436365181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_139
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 191
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0788e6dc6f2f80360800000000000000
+      internalID: 7136220751391000688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dda81fc659b611b0800000000000000
+      internalID: -5686153697015845421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_141
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84c79c3918651d60800000000000000
+      internalID: 7860303182245119116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_142
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be2daa8a8aac0340800000000000000
+      internalID: 4831424012270513848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_143
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 176
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a94333e34cfd7490800000000000000
+      internalID: -7746758415502587484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_144
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 176
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb495248af677a70800000000000000
+      internalID: 8824644763314113459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_145
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263e5ffda1a7fcec0800000000000000
+      internalID: -3544480125872118942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903e6861cacdafad0800000000000000
+      internalID: -2667577197593173239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_147
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 168
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d848b7d93b00630800000000000000
+      internalID: 3891307567011630422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_148
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d70482899cdfab0800000000000000
+      internalID: -4972596758199632516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_149
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 160
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa88a0c0816836160800000000000000
+      internalID: 7017600082212718762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_150
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88902f6591536b20800000000000000
+      internalID: 3126432268581640333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_151
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c4d0ca1209b0060800000000000000
+      internalID: 6920783726679772228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6383dde5d1efd280800000000000000
+      internalID: -9016239620038098066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_153
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6343a3b1c948e08a0800000000000000
+      internalID: -6336981819657145290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_154
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 145
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35182828a9b375420800000000000000
+      internalID: 2618627243139826003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_155
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361f62ccd776ae5c0800000000000000
+      internalID: -4185419113693777565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_156
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 144
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ae2ccd305945490800000000000000
+      internalID: -7758412414231319950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_157
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e2c886addf3c780800000000000000
+      internalID: -8663802143631987164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6dc015cd68ba740800000000000000
+      internalID: 5164369678521128688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_159
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efc13a4358978970800000000000000
+      internalID: 8757135483939704801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_160
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb87f7f0a3ff74930800000000000000
+      internalID: 4127548208341547195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_161
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c36946a1eae91110800000000000000
+      internalID: 1232274227940910019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_162
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d4a4301cd615560800000000000000
+      internalID: 7300737146695601443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a8f7f8725ce6b0800000000000000
+      internalID: -5265743184793131836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030cbe1859764ab30800000000000000
+      internalID: 4297673836245794864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_165
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b86dfc1ec4740a0800000000000000
+      internalID: -6897459771556328703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_166
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545312167f1f6b640800000000000000
+      internalID: 5095526073205077317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_167
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a398e07eded16f7d0800000000000000
+      internalID: -2885085603663279814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_168
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 112
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a38fb937a388ed80800000000000000
+      internalID: -8221176365513210976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_169
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277db494db42b4ed0800000000000000
+      internalID: -2428807178639124622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01686a6b7f4bfbbd0800000000000000
+      internalID: -2612170282837309936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_171
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b343503a28539fa70800000000000000
+      internalID: 8861172577025209403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_172
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a629f2edc369f00800000000000000
+      internalID: 1123152082054048262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_173
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 96
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1614650e329826b60800000000000000
+      internalID: 7737897896956543329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_174
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0229fb9ac1d3cf570800000000000000
+      internalID: 8501737389884936736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_175
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f539702cb13e1360800000000000000
+      internalID: 7142200743124612600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76401e2ff526f4f0800000000000000
+      internalID: -795406506264607106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_177
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee01bea07db9cce0800000000000000
+      internalID: -1384367118774890771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_178
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4193bdcc1878db0800000000000000
+      internalID: -4789716961833970482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_179
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0474060f032c390a0800000000000000
+      internalID: -6875938690617555136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_180
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46b928d71f4002a0800000000000000
+      internalID: -6773326875735771570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d106c4c3df96ee1a0800000000000000
+      internalID: -6778363852786737123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104da63b7603ec6d0800000000000000
+      internalID: -2968381882440690687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_183
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00e7016821ff81f0800000000000000
+      internalID: -1040347833170403316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_184
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3669e0a57c46580800000000000000
+      internalID: -8834717379388349483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_185
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 64
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028cc10750c4be150800000000000000
+      internalID: 5902895322838648864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_186
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b8a77e023401930800000000000000
+      internalID: 4111860268390845271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_187
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e187e14c7b4de8a0800000000000000
+      internalID: -6274275708803513883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_188
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 47
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a084e8a0b2f08f780800000000000000
+      internalID: -8649146406829930486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_189
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 47
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7674d80a4d9bca1c0800000000000000
+      internalID: -4491010405517408409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_190
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52c82c46e467f910800000000000000
+      internalID: 1871075110478725726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_191
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6995c01dfbc1b890800000000000000
+      internalID: -7443944421298169492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcb2ad893cd5b010800000000000000
+      internalID: 1204110615138974966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_193
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 31
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d32d9a4323264e0800000000000000
+      internalID: -1989972883575521969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_194
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c28762d6675fb130800000000000000
+      internalID: 3584679927538483905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_195
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a2f350b47ed7240800000000000000
+      internalID: 4791239887988664922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_196
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ed5d8e0bc399c70800000000000000
+      internalID: 8978274062658035353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_197
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 15
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb57b65673243ef0800000000000000
+      internalID: -129439498118931475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_198
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6039f338f00ee50800000000000000
+      internalID: 6836481290730145469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_199
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3266c849ad2a610800000000000000
+      internalID: 1631106346607059906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCropsWinterWet_200
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3a5fa234e2214e0800000000000000
+      internalID: -2012495217462762526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
