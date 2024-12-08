@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprScareCrows_0: -5893827045670931191
+      sprScareCrows_1: -3536670665089871706
+      sprScareCrows_10: 683141393715651586
+      sprScareCrows_11: -7876390030550862957
+      sprScareCrows_12: 2652807185204894515
+      sprScareCrows_2: 9018579073617320318
+      sprScareCrows_3: -3410147339296019593
+      sprScareCrows_4: 7273369610813403970
+      sprScareCrows_5: -8652359440163916669
+      sprScareCrows_6: -8703822147564376438
+      sprScareCrows_7: -1042700405717317872
+      sprScareCrows_8: -2384999865049410470
+      sprScareCrows_9: -5627609864553467295
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

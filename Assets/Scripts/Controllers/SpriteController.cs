@@ -1,22 +1,31 @@
 using System.Collections.Generic;
 using UnityEngine;
+using Collections;
+using Unity.Collections;
+using System.Collections;
 
 public class SpriteController: MonoBehaviour
 {
-    [SerializeField] protected List<Sprite> NormalSprites = new List<Sprite>();
+    [Header("Sprites")]
+    [SerializeField] protected SerializableDictionary<int, Sprite[]> SpriteMap = new SerializableDictionary<int, Sprite[]>();
+    [SerializeField] protected int index;
+
     [SerializeField] protected SpriteRenderer Renderer;
-    [SerializeField] protected int index = 0;
 
     public int Index
     {
-        get => index;
+        get
+        {
+            return index;
+        }
+
         set
         {
-            int tempIndex = Mathf.Clamp(value, 0, NormalSprites.Count - 1);
+            int tempIndex = Mathf.Clamp(value, 0, 10);
             if (tempIndex != index)
             {
                 index = tempIndex;
-                Renderer.sprite = NormalSprites[index];
+                Renderer.sprite = null;
             }
         }
     }
@@ -27,7 +36,7 @@ public class SpriteController: MonoBehaviour
         if (Renderer == null) Renderer = gameObject.GetComponent<SpriteRenderer>();
         if (Renderer == null) Renderer = gameObject.AddComponent<SpriteRenderer>();
         Index = index;
-        Renderer.sprite = NormalSprites[index];
+        Renderer.sprite = null;
     }
 
     // Update is called once per frame
