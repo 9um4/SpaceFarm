@@ -4,28 +4,9 @@ using Data;
 
 public class SproutSpriteController : SpriteController
 {
-    [SerializeField] protected List<Sprites> spr;
 
-    [SerializeField] protected SproutStatus sproutStatus;
-    
-
-    public SproutStatus SproutStatus
+    public void SetSproutStatus(SproutStatus sproutStatus)
     {
-        get => sproutStatus;
-        set
-        {
-            sproutStatus = value;
-        }
-    }
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        Status = (int)sproutStatus;
     }
 }

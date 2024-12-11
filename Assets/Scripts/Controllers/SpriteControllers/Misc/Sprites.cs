@@ -1,68 +1,54 @@
 using System.Collections.Generic;
 using UnityEngine;
+using System;
+using System.Collections;
 
 namespace Data
 {
     [System.Serializable]
-    public class Sprites
+    public class SpritesWrapper
     {
-        [SerializeField] protected Sprite[] NormalSprites;
+        [SerializeField] protected List<Sprite> Sprites;
 
-        public virtual int GetSpritesCount(SproutStatus? sproutStatus = null)
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="index"></param>
+        /// <returns></returns>
+        /// <exception cref="IndexOutOfRangeException"></exception>
+        public virtual Sprite Get(int index)
         {
-            return NormalSprites.Length;
-        }
-
-        public virtual Sprite GetCurrentSprite(int index, SproutStatus? sproutStatus = null)
-        {
-            if (NormalSprites.Length < index)
+            if (index < 0 || index >= Sprites.Count)
             {
-                return NormalSprites[index];
+                throw new IndexOutOfRangeException($"Index {index} is out of range. Valid range is 0 to {Sprites.Count - 1}.");
             }
-            return null;
+
+            return Sprites[index];
         }
-    }
 
-    [System.Serializable]
-    public class SproutSprites: Sprites
-    {
-        [SerializeField] protected Sprite[] NormalWetSprites;
-        [SerializeField] protected Sprite[] WinterSprites;
-        [SerializeField] protected Sprite[] WinterWetSprites;
-
-        public override Sprite GetCurrentSprite(int index, SproutStatus? sproutStatus = null)
+        public virtual void Set(int index, Sprite sprite)
         {
-            switch (sproutStatus)
+            if (index < 0 || index >= Sprites.Count)
             {
-                case SproutStatus.NORMAL:
-                    return NormalSprites[index];
-                case SproutStatus.NORMAL_WET:
-                    return NormalWetSprites[index];
-                case SproutStatus.WINTER:
-                    return WinterSprites[index];
-                case SproutStatus.WINTER_WET:
-                    return WinterWetSprites[index];
-                default:
-                    return null;
+                throw new IndexOutOfRangeException($"Index {index} is out of range. Valid range is 0 to {Sprites.Count - 1}.");
             }
+
+            Sprites[index] = sprite;
         }
 
-        public override int GetSpritesCount(SproutStatus? sproutStatus = null)
+        public virtual void Remove(int index)
         {
-            switch (sproutStatus)
-            {
-                case SproutStatus.NORMAL:
-                    return NormalSprites.Length;
-                case SproutStatus.NORMAL_WET:
-                    return NormalWetSprites.Length;
-                case SproutStatus.WINTER:
-                    return WinterSprites.Length;
-                case SproutStatus.WINTER_WET:
-                    return WinterWetSprites.Length;
-                default:
-                    return -1;
-            }
+            Sprites.RemoveAt(index);
         }
 
+        public bool IsEmpty
+        {
+            get { return Sprites.Count == 0; }
+        }
+
+        public int Count
+        {
+            get { return Sprites.Count; }
+        }
     }
 }
