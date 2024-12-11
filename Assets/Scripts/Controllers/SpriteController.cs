@@ -59,7 +59,7 @@ public class SpriteController: MonoBehaviour
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    protected void Start()
+    protected virtual void Start()
     {
         if (SpriteRenderer.IsUnityNull()) SpriteRenderer = GetComponent<SpriteRenderer>();
 
